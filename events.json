@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "title": "Sunrise Yoga",
+    "description": "A relaxed beginner-friendly yoga session to start the day. Bring your own mat.",
+    "date": "2026-11-21",
+    "time": "7:00 AM",
+    "location": "Centennial Park Lawn",
+    "spotsRemaining": 12,
+    "tags": ["Fitness", "Outdoors", "Today"]
+  },
+  {
+    "id": "2",
+    "title": "Community Fun Run",
+    "description": "A friendly 5km run through the park. All fitness levels welcome, with a coffee stop at the finish.",
+    "date": "2026-11-21",
+    "time": "8:30 AM",
+    "location": "Moore Park Entrance",
+    "spotsRemaining": 40,
+    "tags": ["Athletics", "Outdoors", "Popular", "Today"]
+  },
+  {
+    "id": "3",
+    "title": "Family Movie Night",
+    "description": "An outdoor screening of a family favourite. Bring a picnic blanket and snacks.",
+    "date": "2026-11-21",
+    "time": "7:30 PM",
+    "location": "Harbourview Reserve",
+    "spotsRemaining": 60,
+    "tags": ["Family", "Social", "Outdoors", "Today"]
+  },
+  {
+    "id": "4",
+    "title": "Live Acoustic Evening",
+    "description": "Local musicians play a relaxed acoustic set. Light food and drinks available.",
+    "date": "2026-11-22",
+    "time": "6:00 PM",
+    "location": "The Corner Cafe",
+    "spotsRemaining": 25,
+    "tags": ["Music", "Social", "Indoors", "Popular"]
+  },
+  {
+    "id": "5",
+    "title": "Salsa for Beginners",
+    "description": "Learn the basic steps with a friendly instructor. No partner needed.",
+    "date": "2026-11-23",
+    "time": "7:00 PM",
+    "location": "Newtown Community Hall",
+    "spotsRemaining": 18,
+    "tags": ["Dance", "Social", "Indoors"]
+  },
+  {
+    "id": "6",
+    "title": "Kids Soccer Clinic",
+    "description": "A fun skills session for ages 6 to 12, run by local coaches.",
+    "date": "2026-11-24",
+    "time": "4:00 PM",
+    "location": "Bondi Sports Field",
+    "spotsRemaining": 15,
+    "tags": ["Athletics", "Family", "Outdoors"]
+  },
+  {
+    "id": "7",
+    "title": "Board Games Afternoon",
+    "description": "Drop in to play a wide range of board games and meet new people. Games provided.",
+    "date": "2026-11-25",
+    "time": "2:00 PM",
+    "location": "Surry Hills Library",
+    "spotsRemaining": 30,
+    "tags": ["Social", "Family", "Indoors"]
+  },
+  {
+    "id": "8",
+    "title": "Coastal Walk and Picnic",
+    "description": "A guided easy walk along the coast, finishing with a shared picnic lunch.",
+    "date": "2026-11-28",
+    "time": "10:00 AM",
+    "location": "Coogee Beach Car Park",
+    "spotsRemaining": 20,
+    "tags": ["Outdoors", "Fitness", "Social", "Popular"]
+  },
+  {
+    "id": "9",
+    "title": "Community Choir Night",
+    "description": "Come and sing! No experience needed, and sheet music is provided.",
+    "date": "2026-11-29",
+    "time": "6:30 PM",
+    "location": "St Mary's Hall",
+    "spotsRemaining": 35,
+    "tags": ["Music", "Social", "Indoors"]
+  },
+  {
+    "id": "10",
+    "title": "Circuit Training Bootcamp",
+    "description": "A high-energy full-body workout using bodyweight exercises. Suitable for all levels.",
+    "date": "2026-11-30",
+    "time": "6:00 AM",
+    "location": "Rushcutters Bay Park",
+    "spotsRemaining": 10,
+    "tags": ["Fitness", "Athletics", "Outdoors"]
+  }
+]
